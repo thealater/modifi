@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <i>The easiest way to join modded servers!</i><br />
-  <br />Modifi aims to take all of the pain out of joining modded servers. Say goodbye to mismatched mod versions, confusing java installations, and perplexing errors. Just press play!
+  A custom Minecraft launcher that lets you join your favorite modded servers without all of the headaches. Say goodbye to mismatched mod versions, confusing Java installations, and perplexing errors. Just press play!
 </p>
 
 ## 🔧 Features
